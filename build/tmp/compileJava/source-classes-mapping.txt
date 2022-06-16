@@ -1,0 +1,8 @@
+no/oslomet/cs/algdat/Oblig2/Beholder.java
+ no.oslomet.cs.algdat.Oblig2.Beholder
+no/oslomet/cs/algdat/Oblig2/Liste.java
+ no.oslomet.cs.algdat.Oblig2.Liste
+no/oslomet/cs/algdat/Oblig2/DobbeltLenketListe.java
+ no.oslomet.cs.algdat.Oblig2.DobbeltLenketListe
+ no.oslomet.cs.algdat.Oblig2.DobbeltLenketListe$DobbeltLenketListeIterator
+ no.oslomet.cs.algdat.Oblig2.DobbeltLenketListe$Node
